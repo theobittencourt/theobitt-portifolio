@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theobitt-portfolio/static/css/main.17f53bd2.css",
+    "main.js": "/theobitt-portfolio/static/js/main.fbebcdfe.js",
+    "static/media/wallpaper.png": "/theobitt-portfolio/static/media/wallpaper.b9a3d21a9c774c575c92.png",
+    "static/media/pp.jfif": "/theobitt-portfolio/static/media/pp.f3a6d5532c3af6f3947f.jfif",
+    "index.html": "/theobitt-portfolio/index.html",
+    "main.17f53bd2.css.map": "/theobitt-portfolio/static/css/main.17f53bd2.css.map",
+    "main.fbebcdfe.js.map": "/theobitt-portfolio/static/js/main.fbebcdfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f53bd2.css",
+    "static/js/main.fbebcdfe.js"
+  ]
+}
