@@ -2,7 +2,6 @@
   "name": "theobitt-portfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://theobittencourt.github.io/theobitt-portfolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
