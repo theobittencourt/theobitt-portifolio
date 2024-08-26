@@ -1,7 +1,3 @@
-Aqui está uma sugestão para o README do seu projeto:
-
----
-
 # Why I Want to Work at Buzzvel - Microsite
 
 This project is a microsite developed as part of the Buzzvel Dev Team Test 2024. It showcases my experience, explains why I want to work at Buzzvel, and integrates animations, a project slideshow, and a career timeline, following the requirements provided.
