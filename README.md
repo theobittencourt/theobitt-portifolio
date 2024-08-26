@@ -45,12 +45,12 @@ To install and run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/buzzvel-microsite.git
+   git clone https://github.com/theobittencourt/theobitt-portifolio
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd buzzvel-microsite
+   cd theobitt-portifolio
    ```
 
 3. Install dependencies:
