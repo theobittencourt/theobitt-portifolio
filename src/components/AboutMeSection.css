@@ -1,0 +1,64 @@
+.about-me {
+    padding: 10rem;
+    color: white;
+    text-align: left;
+    opacity: 1;
+    background: transparent;
+  }
+  
+  .about-me h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+  }
+  
+  .experience {
+    margin-bottom: 50px;
+  }
+  
+  .experience ul {
+    list-style-type: none;
+    padding: 10;
+  }
+  
+  .experience li {
+    margin-bottom: 30px;
+    transition: transform 0.5s, box-shadow 0.7s;
+
+  }
+  .experience li:hover{
+    transform: translateY(-15px);
+    box-shadow: 0 12px 12px rgba(0, 0, 0, 0.3);
+  }
+  .card {
+    background-color: #313131;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    justify-content: center;
+    text-align: center;
+    width: auto;
+  }
+  
+  
+  @media (max-width: 768px) {
+  
+    .about-me {
+      padding: 4rem;
+      color: white;
+      text-align: left;
+      opacity: 1;
+      background: transparent;
+    }
+    .experience ul {
+      list-style-type: none;
+      padding: 2;
+    }
+}
+
+/* Para dispositivos móveis */
+@media (max-width: 480px) {
+    
+
+  }
+  

@@ -1,0 +1,92 @@
+/* Career Timeline Styles */
+.timeline-section {
+    padding: 10rem;
+    background-color: #f9f9f9;
+    opacity: 0; /* Começa invisível para a animação */
+    transition: opacity 0.3s ease, transform 0.3s ease; /* Transição suave */
+  }
+  
+  .timeline-container {
+    padding: 0rem;
+    align-content: center;
+    margin: 0 auto;
+  }
+  
+  .years-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  .timeline-title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .timeline-year {
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(30px); /* Começa deslocado para a animação */
+  
+  }
+  
+  .timeline-year h3 {
+    font-size: 1.75rem;
+    color: #333;
+    margin-bottom: 1rem;
+    font-weight: bold;
+  }
+  
+  .timeline-year h4 {
+    font-size: 1.25rem;
+    color: #555;
+    margin-top: 1rem;
+    font-weight: bold;
+  }
+  ul{
+    list-style: none;
+
+  }
+  .timeline-content ul {
+    list-style: none;
+    margin-left: 1.5rem;
+  }
+  
+  .timeline-content li {
+    margin-bottom: 0.5rem;
+  }
+  
+  .timeline-content strong {
+    color: #333;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .timeline-section {
+        padding: 4rem;
+        background-color: #f9f9f9;
+        margin-top: 4rem;
+      }
+    .years-container {
+      flex-direction: column;
+      font-size: 12px;
+    }
+    .years-container h4{
+        font-size: 13px
+
+    }
+    .years-container h3{
+        font-size: 15px
+
+    }
+  
+    .timeline-year {
+      padding: 1rem;
+    }
+  }
+  
