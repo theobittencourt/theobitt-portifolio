@@ -1,7 +1,7 @@
 {
   "name": "theobitt-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "proxy": "https://theobittencourt.github.io/theobitt-portifolio/",
   "homepage": "https://theobittencourt.github.io/theobitt-portfolio",
   "dependencies": {
